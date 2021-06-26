@@ -1,5 +1,5 @@
-# Starbucks Capstone
-This project fulfills a requirement for the Udacity Data Science Nanodegree program. The purpose of this analysis was to determine the extent to which Starbucks' promotional offers change customer purchasing behavior. For write up of these results, see this Medium article: https://andrew-lee.medium.com/understanding-the-impacts-of-starbucks-promotions-c9a9db5da807
+# Starbucks Promotional Offers
+The purpose of this analysis was to determine the extent to which Starbucks' promotional offers change customer purchasing behavior.
 
 # Installation
 The analysis was done using Python 3.8.5
@@ -23,6 +23,3 @@ The file "Starbucks_Capstone_notebook.ipynb" contains all of the code for this p
 
 # Contact Me
 Feedback and suggestions are always welcome: andrewsungjaelee@gmail.com
-
-# Licensing, Authors, Acknowledgements
-Data provided by Udacity as part of the Data Science Nanodegree program
